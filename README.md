@@ -10,11 +10,8 @@ O **Streaming** é uma aplicação WEB sobre streaming de filmes e series.
 
 A aplicação contém as seguintes funcionalidades:
 
-### App.tsx 📕
-
 - [x] Navegar por vários filmes e series.
 - [x] Escolher um e obter suas informações relevantes como duração do filme ou quantidades de temporadas de um série.
-- [x] Site Responsivo.
 
 ### Objetivos 🎯
 
@@ -37,10 +34,10 @@ $ git clone <https://github.com/Pedro-AugusCoelho/StreamingMovie_Series.git>
 $ cd streamingMovie_Series
 
 # Instale as dependências
-$ npm/yarn install
+$ npm install /yarn
 
 # Execute a aplicação em modo de desenvolvimento
-$ npm/yarn start
+$ npm run/yarn start
 
 # O servidor iniciará na porta:3000 - acesse <http://localhost:3000>
  
@@ -50,12 +47,9 @@ $ npm/yarn start
 
 Desenvolvido utilizando as seguintes tecnologias:
 
-- [HTML5](https://www.w3schools.com/html/default.asp)
-- [CSS3](https://www.w3schools.com/css/)
-- [JAVASCRIPT](https://www.javascript.com/)
-- [STYLED-COMPONENTS](https://styled-components.com/)
 - [TYPESCRIPT](https://www.typescriptlang.org/)
 - [REACT.JS](https://pt-br.reactjs.org/)
+- [STYLED-COMPONENTS](https://styled-components.com/)
 - [REACT-ROUTER](https://reactrouter.com/docs/en/v6)
 - [REACT-ICONS](https://react-icons.github.io/react-icons/)
 - [TMDB](https://www.themoviedb.org/?language=pt-BR)
